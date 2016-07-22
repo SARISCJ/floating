@@ -1,0 +1,17 @@
+.padre{
+	border: 2px solid #D8D8D8;
+	width: 75%;
+}
+.a, .b, .c{
+	width: 20%;
+	height: 100px;
+}
+.a {
+	background-color: #FFFF00;
+}
+.b {
+	background-color: #3A81BA;
+}
+.c {
+	background-color: #ED2251;
+}
